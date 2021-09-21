@@ -10,7 +10,9 @@ Mis hobbies favoritos són:
 
 1. Ver series de TV.
 2. Escuchar música.
-3. Tocar isntrumentos (guitarra, violín,...)
+
+3. Tocar instrumentos (guitarra, violín,...)
 4. Jugar videojuegos.
 
 ejemplo
+
